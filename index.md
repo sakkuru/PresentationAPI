@@ -85,7 +85,6 @@ This way of attaching to displays could be enhanced in the future through defini
 本APIは上記の方法のいずれかでディスプレイデバイスと接続されているUAで使用されることを意図している。
 
 
-
 ## 2 ユースケースと要件
 
 ### 2.1 ユースケース
