@@ -9,6 +9,8 @@ repository: PresentationAPI
 
 Editor's Draft 18 March 2015
 
+http://w3c.github.io/presentation-api/
+
 ## 概要
 
 本仕様はWebコンテンツに外部プレゼンテーションタイプのディスプレイにアクセスし、Webコンテンツを表示することを可能にするAPIを定義する。
